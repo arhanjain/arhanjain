@@ -13,4 +13,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arhanjain&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
-![](https://visitcount.itsvg.in/api?id=arhanjain&icon=0&color=7)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=arhanjain&label=Profile%20Views&color=12&icon=6&pretty=true)](https://visitcount.itsvg.in)
