@@ -25,7 +25,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=arhanjain&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=arhanjain&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arhanjain&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&layout=compact&exclude_repo=vpinball)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arhanjain&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&layout=compact&exclude_repo=automation-club/vpinball)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=arhanjain&label=Profile%20Views&color=12&icon=6&pretty=true)](https://visitcount.itsvg.in)
