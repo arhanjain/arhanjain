@@ -25,6 +25,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=arhanjain&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=arhanjain&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=arhanjain&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=false)<br/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=arhanjain&label=Profile%20Views&color=12&icon=6&pretty=true)](https://visitcount.itsvg.in)
