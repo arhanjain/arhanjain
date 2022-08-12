@@ -17,16 +17,9 @@
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
-![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=arhanjain&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true)<br/>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=arhanjain&theme=highcontrast&hide_border=false)<br/>
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=arhanjain&label=Profile%20Views&color=12&icon=6&pretty=true)](https://visitcount.itsvg.in)
