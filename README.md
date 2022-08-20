@@ -1,16 +1,16 @@
-# 👋 Hey, I'm Arhan:
+# 👋 Hey, I'm Arhan
 🤝 Looking to collaborate on open source software<br>
 👀 Interested in artificial intelligence and operating systems<br>
 🐶 Fun fact: I enjoy watching anime and spending time with my dog
 
 
-## 🌐 Socials:
+## 🌐 Socials
 [![Discord](https://dcbadge.vercel.app/api/shield/422231190443917322)](htttps://discord.gg/owhan#3489)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/prod.arhan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arhanjain)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@arhanjain) 
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
