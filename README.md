@@ -1,8 +1,6 @@
 # 👋 Hey, I'm Arhan
 🤝 Looking to collaborate on open source software<br>
 👀 Interested in artificial intelligence and operating systems<br>
-🐶 Fun fact: I enjoy watching anime and spending time with my dog
-
 
 ## 🌐 Socials
 [![Discord](https://dcbadge.vercel.app/api/shield/422231190443917322)](htttps://discord.gg/owhan#3489)
