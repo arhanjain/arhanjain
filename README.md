@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Arhan
+# 👋 I'm Arhan
 🤝 Looking to collaborate on open source software<br>
 👀 Interested in artificial intelligence and operating systems<br>
 
