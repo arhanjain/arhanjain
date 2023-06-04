@@ -3,7 +3,6 @@
 👀 Interested in artificial intelligence and operating systems<br>
 
 ## 🌐 Socials
-[![Discord](https://dcbadge.vercel.app/api/shield/422231190443917322)](htttps://discord.gg/owhan#3489)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/prod.arhan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arhanjain)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@arhanjain) 
